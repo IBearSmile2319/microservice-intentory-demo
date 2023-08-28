@@ -1,9 +1,9 @@
 package com.ibearsmile.products_service.services;
 
-import com.ibearsmile.products_service.model.entities.dtos.ProductRequest;
+import com.ibearsmile.products_service.model.dtos.ProductRequest;
 import com.ibearsmile.products_service.model.entities.Product;
-import com.ibearsmile.products_service.model.entities.dtos.ProductResponse;
-import com.ibearsmile.products_service.repository.ProductRepository;
+import com.ibearsmile.products_service.model.dtos.ProductResponse;
+import com.ibearsmile.products_service.repositories.ProductRepository;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.stereotype.Service;

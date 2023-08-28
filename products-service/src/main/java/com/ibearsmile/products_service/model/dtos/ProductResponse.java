@@ -1,4 +1,4 @@
-package com.ibearsmile.products_service.model.entities.dtos;
+package com.ibearsmile.products_service.model.dtos;
 
 
 import lombok.AllArgsConstructor;

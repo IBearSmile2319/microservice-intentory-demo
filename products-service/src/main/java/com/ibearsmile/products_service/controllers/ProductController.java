@@ -1,7 +1,7 @@
 package com.ibearsmile.products_service.controllers;
 
-import com.ibearsmile.products_service.model.entities.dtos.ProductRequest;
-import com.ibearsmile.products_service.model.entities.dtos.ProductResponse;
+import com.ibearsmile.products_service.model.dtos.ProductRequest;
+import com.ibearsmile.products_service.model.dtos.ProductResponse;
 import com.ibearsmile.products_service.services.ProductService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.HttpStatus;

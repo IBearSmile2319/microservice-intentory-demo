@@ -1,4 +1,4 @@
-package com.ibearsmile.products_service.repository;
+package com.ibearsmile.products_service.repositories;
 
 import com.ibearsmile.products_service.model.entities.Product;
 import org.springframework.data.jpa.repository.JpaRepository;
